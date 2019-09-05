@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="The milestones in computer technology">
+  <meta name="keywords" content="Milestones in computer technology">
+  <meta name="author" content="Jessica Trujillo">
+  <meta name="title" content="Five Milestones In Computer Technology">
+  <title>Five Milestones In Computer Technology</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Five Milestones In Computer Technology</h1>
+  </header>
+  <div class="coding 101">
+    <br>
+<hr>
+    <br>
+<h1>1946-ENIAC<h1>
+  <p> The Electronic Numerical Integrator and Computer (ENIAC) was first general-purpose electronic computer. It was first designed to calculate artillery firing tables to be used by the United States Army's. The ENIAC helped troops predict where an artillery shell would hit, allowing them to hit their targets more precisely or evade incoming shells. Later, John Mauchly redesigned it to be a modular computer in 1946 to be composed of individual panels that perform separate functions, and it was the first large-scale computer to run solely on electronic components without any mechanical parts slowing it down. <a href="https://www.techopedia.com/definition/609/electronic-numerical-integrator-and-computer-eniac " </p>
+    <br>
+    <br>
+    <h2>
