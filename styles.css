@@ -1,11 +1,22 @@
 /* here is where my tag selector will go*/
 h1{
-  color: blue;
+  color:#3341CE;
+
 }
-html{background-color: purple;}
+html{background-color:#E6CFFF;}
+h2{
+  color:#3D33CE;
+  h3{#3D33CE}
+  h4{
+    color:#3D33CE;
+  }
 
+h5{color:#3D33CE;
+}
 /*here is where my class tags will go*/
-
+p{
+  color:#401EA1;
+}
 
 
 /*here is where my id will go*/
