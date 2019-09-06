@@ -17,6 +17,12 @@ h5{color:#3D33CE;
 p{
   color:#401EA1;
 }
-
+.this-is-classy{
+  font-size: 30px;
+}
+#this-is-an-id{
+  font-family:'Manjari', sans-serif;;
+  text-align: left;
+}
 
 /*here is where my id will go*/
